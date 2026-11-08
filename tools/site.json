@@ -1,0 +1,8 @@
+{
+ "base": "https://iptvnlpro.com",
+ "name": "IPTV Nederland - Beste IPTV Aanbieder",
+ "lang": "nl-NL",
+ "read_label": "leestijd",
+ "article_class": "tp-article",
+ "min_words": 2000
+}
